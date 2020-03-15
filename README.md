@@ -1,5 +1,7 @@
 # React Pincode
 
+See this app live at https://react-pincode.netlify.com/
+
 [<img src="./Capture.PNG" style="width: 100%;" />](https://github.com/plxity/React-Pincode)
 
 [<img src="./Capture1.PNG" style="width: 100%;" />](https://github.com/plxity/React-Pincode)
@@ -47,6 +49,10 @@ export default class Example extends Component {
 export default Example;
 ```
 
+### PLAYGROUND
+
+Find Codepen Implementation of the module [here](https://codepen.io/Siddhi5/pen/GRJMqWB)
+
 ## Pincode Props
 
 | Name             | Description                                     |
@@ -90,6 +96,8 @@ export default Example;
 6. Now run `npm link react-pincode`	
 7. Congratulations! You have set-up the test server for react-pincode.	
 Now just run `npm start` from `test-server` directory to launch the test-server.	
-8. You don't need to stop this server, the changes made in the module will be reflected automatically each time you build them using `npm run build`	
+8. You don't need to stop this server, the changes made in the module will be reflected automatically each time you build them using `npm run build`
+9. To watch a video on installation :
+[![Watch the video](https://img.youtube.com/vi/DtBObHLaQDA/maxresdefault.jpg)](https://www.youtube.com/watch?v=DtBObHLaQDA)	
 
 Happy Coding :rocket: :rocket:	
